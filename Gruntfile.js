@@ -80,7 +80,7 @@
         },
         pages: {
           options: {
-            remote: 'git@github.com:iamcarrico/content-to-phone-in-1000ms.git',
+            remote: 'git@github.com:iamcarrico/dont-use-sass.git',
             branch: 'gh-pages'
           }
         }

@@ -1,10 +1,5 @@
-## What is this about?
+## What is this?
 
-* What effects frontend performance
-* Guidelines to better page load
-* How the protocols we utilize (HTTP, TCP, SPDY) effect our sites
-
-
-### Slides
-
-<div class="slides-link">[iamc.co/1000ms](http://iamc.co/1000ms)</div>
+* What is wrong with Sass?
+* Why did I stop using it?
+* How cab post-processors save us all?

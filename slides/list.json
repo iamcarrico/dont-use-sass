@@ -19,271 +19,53 @@
         "data-state": "intro",
         "id": "is"
       }
-    },
+    }
+  ],
+  [
     {
-      "filename": "intro/why.md",
+      "filename": "extend/index.md",
       "attr": {
-        "data-state": "intro",
-        "id": "why"
+          "data-state": "extend"
       }
     }
   ],
   [
     {
-      "filename": "guidelines/rule.md",
+      "filename": "mixins/index.md",
       "attr": {
-          "data-state": "guidelines",
-          "id": "rule1"
-      }
-    },
-    {
-      "filename": "guidelines/guidelines.md",
-      "attr": {
-          "data-state": "pirates",
-          "data-background": "http://iamcarrico.github.io/content-to-phone-in-1000ms/images/pirates-of-carribean.jpg",
-          "id": "pirates"
+          "data-state": "mixins"
       }
     }
   ],
   [
     {
-      "filename": "testing/testing.md",
+      "filename": "slow/index.md",
       "attr": {
-          "data-state": "trek",
-          "data-background": "http://iamcarrico.github.io/content-to-phone-in-1000ms/images/star-trek.jpg",
-          "id": "testing"
-      }
-    },
-    {
-      "filename": "testing/tools.md",
-      "attr": {
-          "data-state": "testing",
-          "id": "testing-tools"
-      }
-    },
-    {
-      "filename": "testing/users.md",
-      "attr": {
-          "data-state": "testing",
-          "id": "users"
-      }
-    },
-    {
-      "filename": "testing/rupl.md",
-      "attr": {
-          "data-state": "testing",
-          "id": "rupl"
+          "data-state": "slow"
       }
     }
   ],
   [
     {
-      "filename": "render/render.md",
+      "filename": "libsass/index.md",
       "attr": {
-          "data-state": "render",
-          "id": "render"
-      }
-    },
-    {
-      "filename": "render/pass.md",
-      "attr": {
-          "data-state": "gandalf",
-          "data-background": "http://iamcarrico.github.io/content-to-phone-in-1000ms/images/lotr.jpg",
-          "id": "gandalf"
-      }
-    },
-    {
-      "filename": "render/pipeline.md",
-      "attr": {
-          "data-state": "render",
-          "id": "pipeline"
-      }
-    },
-    {
-      "filename": "render/javascript.md",
-      "attr": {
-          "data-state": "render",
-          "id": "javascript"
-      }
-    },
-    {
-      "filename": "render/css.md",
-      "attr": {
-          "data-state": "render",
-          "id": "css"
+          "data-state": "libsass"
       }
     }
   ],
   [
     {
-      "filename": "tcp/tcp.md",
+      "filename": "post/index.md",
       "attr": {
-          "data-state": "tcp",
-          "id": "tcp"
-      }
-    },
-    {
-      "filename": "tcp/houston.md",
-      "attr": {
-          "data-state": "houston",
-          "data-background": "http://iamcarrico.github.io/content-to-phone-in-1000ms/images/apollo13.jpg",
-          "id": "houston"
-      }
-    },
-    {
-      "filename": "tcp/latency.md",
-      "attr": {
-          "data-state": "tcp",
-          "id": "latency"
-      }
-    },
-    {
-      "filename": "tcp/roundtrip.md",
-      "attr": {
-          "data-state": "tcp",
-          "id": "roundtrip"
-      }
-    },
-    {
-      "filename": "tcp/cdn.md",
-      "attr": {
-          "data-state": "tcp",
-          "id": "cdn"
-      }
-    },
-    {
-      "filename": "tcp/redirects.md",
-      "attr": {
-          "data-state": "tcp",
-          "id": "redirects"
-      }
-    },
-    {
-      "filename": "tcp/firstpacket.md",
-      "attr": {
-          "data-state": "tcp",
-          "id": "firstpacket"
-      }
-    },
-    {
-      "filename": "tcp/tricks.md",
-      "attr": {
-          "data-state": "tcp",
-          "id": "tricks"
+          "data-state": "post"
       }
     }
   ],
   [
     {
-      "filename": "spdy/spdy.md",
+      "filename": "wrap/index.md",
       "attr": {
-          "data-state": "spdy",
-          "id": "spdy"
-      }
-    },
-    {
-      "filename": "spdy/speed-racer.md",
-      "attr": {
-          "data-state": "speed-racer",
-          "data-background": "http://iamcarrico.github.io/content-to-phone-in-1000ms/images/speed-racer.jpg",
-          "id": "speed-racer"
-      }
-    },
-    {
-      "filename": "spdy/what.md",
-      "attr": {
-          "data-state": "spdy",
-          "id": "whatisspdy"
-      }
-    },
-    {
-      "filename": "spdy/tricks.md",
-      "attr": {
-          "data-state": "spdy",
-          "id": "tricks2pointOH"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "casestudy/casestudy.md",
-      "attr": {
-          "data-state": "casestudy",
-          "id": "casestudy"
-      }
-    },
-    {
-      "filename": "casestudy/whatdo.md",
-      "attr": {
-          "data-state": "casestudy",
-          "id": "whatdo"
-      }
-    },
-    {
-      "filename": "casestudy/results.md",
-      "attr": {
-          "data-state": "casestudy",
-          "id": "results"
-      }
-    },
-    {
-      "filename": "casestudy/next.md",
-      "attr": {
-          "data-state": "casestudy",
-          "id": "next"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "responsibilty/responsibilty.md",
-      "attr": {
-          "data-state": "responsibilty",
-          "id": "responsibilty"
-      }
-    },
-    {
-      "filename": "responsibilty/everyone.md",
-      "attr": {
-          "data-state": "responsibilty",
-          "id": "everyone"
-      }
-    },
-    {
-      "filename": "responsibilty/easy.md",
-      "attr": {
-          "data-state": "responsibilty",
-          "id": "easy"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "wrap-up/questions.md",
-      "attr": {
-          "data-state": "wrap-up",
-          "id": "questions"
-      }
-    },
-    {
-      "filename": "wrap-up/ilya.md",
-      "attr": {
-          "data-state": "wrap-up",
-          "id": "ilya"
-      }
-    },
-    {
-      "filename": "wrap-up/slides.md",
-      "attr": {
-          "data-state": "wrap-up",
-          "id": "slides"
-      }
-    },
-    {
-      "filename": "wrap-up/thank-you.md",
-      "attr": {
-          "data-state": "wrap-up",
-          "id": "thank-you"
+          "data-state": "wrap"
       }
     }
   ]

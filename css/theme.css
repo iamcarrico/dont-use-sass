@@ -185,3 +185,17 @@ body {
 [data-state="alert"] {
   color: white;
 }
+
+#hashtag {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 5;
+  font-family: "New Cicle", Arial, sans-serif;
+  font-size: 0.9em;
+  padding: .2em .4em;
+  background: rgba(0, 0, 0, 0.14);
+}
+.intro #hashtag {
+  display: none;
+}

@@ -2,5 +2,4 @@
 
 [Current stats are available](https://sass-compatibility.github.io/)
 
-
-Note: While LibSass is vastly faster than ruby sass can ever hope to be, it is not feature complete. And we need all of those features that are available only in Ruby Sass. 
+Note: There really isn't much more to say here. Even though LibSass is roughy 10,000x faster than ruby-sass, I can't use maps in it yet. And that is by far the most important thing for my sanity.

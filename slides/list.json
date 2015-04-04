@@ -25,15 +25,15 @@
     {
       "filename": "extend/index.md",
       "attr": {
-        "data-state": "extend",
-        "id": "extends"
+          "data-state": "extend",
+          "id": "extends"
       }
     },
     {
       "filename": "extend/wrong.md",
       "attr": {
-        "data-state": "extend",
-        "id": "whats-wrong-with-extends"
+          "data-state": "extend",
+          "id": "whats-wrong-with-extends"
       }
     }
   ],
@@ -41,15 +41,15 @@
     {
       "filename": "mixins/index.md",
       "attr": {
-        "data-state": "mixins",
-        "id": "mixins"
+          "data-state": "mixins",
+          "id": "mixins"
       }
     },
     {
       "filename": "mixins/huh.md",
       "attr": {
-        "data-state": "mixins",
-        "id": "wait-what"
+          "data-state": "mixins",
+          "id": "huh-yeah-that"
       }
     }
   ],
@@ -57,15 +57,15 @@
     {
       "filename": "slow/index.md",
       "attr": {
-        "data-state": "slow",
-        "id": "it-is-slow"
+          "data-state": "slow",
+          "id": "slowly-so-slow"
       }
     },
     {
-      "filename": "slow/compile-times.md",
+      "filename": "slow/compile.md",
       "attr": {
-        "data-state": "slow",
-        "id": "compile-times"
+          "data-state": "slow",
+          "id": "i-think-there-is-an-xkcd-for-this"
       }
     }
   ],
@@ -73,8 +73,8 @@
     {
       "filename": "libsass/index.md",
       "attr": {
-        "data-state": "libsass",
-        "id": "libsass"
+          "data-state": "libsass",
+          "id": "libsassy"
       }
     }
   ],
@@ -82,8 +82,8 @@
     {
       "filename": "post/index.md",
       "attr": {
-        "data-state": "post",
-        "id": "postprocessors"
+          "data-state": "post",
+          "id": "post-apocalyptic-sass"
       }
     }
   ],
@@ -91,7 +91,29 @@
     {
       "filename": "wrap/index.md",
       "attr": {
-        "data-state": "wrap"
+          "data-state": "wrap",
+          "id": "why-are-you-talking-at-a-sass-event"
+      }
+    },
+    {
+      "filename": "wrap/hype-and-retweets.md",
+      "attr": {
+          "data-state": "wrap",
+          "id": "the-sky-is-not-falling"
+      }
+    },
+    {
+      "filename": "wrap/mature.md",
+      "attr": {
+          "data-state": "wrap",
+          "id": "people-put-thought-into-it"
+      }
+    },
+    {
+      "filename": "wrap/community.md",
+      "attr": {
+          "data-state": "wrap",
+          "id": "these-people-are-the-bomb"
       }
     }
   ]

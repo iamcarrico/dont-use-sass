@@ -115,6 +115,13 @@
           "data-state": "wrap",
           "id": "these-people-are-the-bomb"
       }
+    },
+    {
+      "filename": "wrap/haters.md",
+      "attr": {
+          "data-state": "wrap",
+          "id": "hate-hate-hate"
+      }
     }
   ]
 ]

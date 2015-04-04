@@ -1,5 +1,5 @@
 # Don't Use
 
-![Sass](/img/sass.svg)
+![Sass](https://iamcarrico.github.io/dont-use-sass/img/sass.svg)
 
 ### SRSLY...  <!-- .element: class="fragment" -->

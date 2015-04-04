@@ -1,6 +1,6 @@
 # Ian Carrico
 
-Performance Engineer, Vox Media
+Web Performance Artist, Vox Media
 
 * [iamcarrico.com](https://iamcarrico.com)
 * [drupal.org/u/iamcarrico](http://drupal.org/u/iamcarrico)
